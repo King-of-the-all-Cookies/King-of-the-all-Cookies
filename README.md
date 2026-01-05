@@ -1,4 +1,4 @@
-# <img src="cookie.png" align="right" width="40%">King-of-the-all-Cookies
+# <img src="cookie.png" align="right" width="20%">King-of-the-all-Cookies
 
 Hi! I am the King-of-the-all-Cookies. Hacker, game translator, composer, and just a good person. I am developing my own game translation software.
 
