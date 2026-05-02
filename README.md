@@ -1,4 +1,4 @@
-# <img src="cookie.png" align="right" width="35%">King-of-the-all-Cookies
+# <img src="cookie.png" align="right" width="25%">King-of-the-all-Cookies
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-of-the-all-cookies&label=Profile%20views&color=0e75b6&style=plastic" alt="king-of-the-all-cookies" /> </p>
 
