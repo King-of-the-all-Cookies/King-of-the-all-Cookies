@@ -11,5 +11,8 @@ Well, I'm also a reverse engineer (how could that be so obvious, right?), and I'
 
 I participate (and have participated) in many projects. These include: my own <a href="filldor.ru">translation agency "Phoenix & Co."</a>, my profile picture on the <a href="https://mrim.su">mrim.su</a> website, I'm involved in translating Ace Attorney into Russian, I'm also a back-end developer on Lunastore (an app store for Windows XP), a composer at <a href="https://t.me/TOST_Undertale_Orange">TOST!UTOrange</a>, I help the "Людские переводы" team, I participated in the translation of DELTARUNE (from <a href="https://t.me/LazyDesman">LazyDesman</a>), I'm a member of the Daniel Myslivets team, and much more. I'm always open to communication. You can find my contact information on my <a href="https://kotac.ru">website</a> (assuming the virtual machine works with it, of course. If it doesn't, blame Microsoft, lmao).
 
-# <img src="furry_cookie_yeah.jpg" align="left" width="25%">Me in IRL</img>
+# <img src="furry_cookie_yeah.jpg" align="right" width="25%">Me in IRL</img>
+
+What can I tell you about myself in the IRL? I'm just a dude who lives, works and studies in Moscow. You might have noticed that I'm a bit of a furry, and I'm also a cosplayer (I cosplayed Odoroki Nomano from Gyakuten Saiban). I like to attend various events (cosplayer gatherings or retro game festivals). I often walk, I am fond of photography and I love transport (the Moscow metro, trains, etc.). I can ride aimlessly all day, hehe. Sometimes I show up in the neighboring city of St. Petersburg.
+
 <p align="left"> <img src="https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/FILLDOR/latest-song?format=shields.io" alt="Last played song" /> </p>
