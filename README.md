@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-of-the-all-cookies&label=Profile%20views&color=0e75b6&style=plastic" alt="king-of-the-all-cookies" /> </p>
 
 
-Hi! I'm the King-of-the-all-Cookies. I'm a hacker, game translator, composer, a bit of an artist, and just a good person. I develop my own software for translating games.
+Hi! I Am the King of the all Cookies. I'm a hacker, game translator, composer, collector, a bit of an artist, and just a good person. I am developing my own game translation software.
 
-Well, I'm also a reverse engineer (how could that be so obvious, right?), and I'm currently developing my own game engine. And yes, that's completely unrelated.
+Well, I'm also doing some reengineering (it's so obvious, right?), and I'm currently developing my own game engine. And yes, it's completely unrelated. I love Python, I know C and Assembler. I know Java and JavaScript at a basic level.
 
 # <img src="people3.jpg" align="left" width="35%">Roman Sergienko</img>
 
